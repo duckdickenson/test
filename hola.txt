@@ -1,3 +1,10 @@
+
 hola mundo
+<<<<<<< HEAD
 sup bro\]
 kjAwfhhljhwaeg;fqa3bfo;wea
+=======
+sup bro
+probando pull
+probando pull 2
+>>>>>>> 671d20b2df45e9012b0de009dabf9053a12dddc3
